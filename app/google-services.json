@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126018857350",
+    "firebase_url": "https://abtesting1-4eda6.firebaseio.com",
+    "project_id": "abtesting1-4eda6",
+    "storage_bucket": "abtesting1-4eda6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126018857350:android:2e8bd6450bd23b7a3b2407",
+        "android_client_info": {
+          "package_name": "com.dj.abtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126018857350-06bf14rdem1l9f4jq74ramlvdtc4uleh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQtbWa23TE_KnKbJX5sjdRp77QjXzQKa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126018857350-06bf14rdem1l9f4jq74ramlvdtc4uleh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
